@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Cerberus bot",
-    "description": "Cerberus Bot, o seu melhor amigo na roleta online",
+    "description": "Cerberus Bot, o seu melhor amigo na roleta online ",
     "version": "1.02",
     "icons": {
         "16": "assets/icon.png",

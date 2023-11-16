@@ -32,7 +32,7 @@ O Cerberus Bot respeita as leis e os regulamentos vigentes nos países onde oper
 O Cerberus Bot se reserva o direito de modificar, atualizar ou encerrar o projeto a qualquer momento, sem aviso prévio ou justificativa. Os usuários devem acompanhar as novidades e as mudanças relacionadas ao bot, e devem desinstalar ou desativar o bot caso não concordem com as alterações.
 
 ## CONTATO 📧
-Se você tiver alguma dúvida, sugestão ou precisar de informações adicionais, entre em contato conosco através do email: mrf13ac@riseup.net
+Se você tiver alguma dúvida, sugestão ou quiser contribuir no desenvolvimento do projeto, entre em contato conosco através do email: mrf13ac@riseup.net
 
 
 

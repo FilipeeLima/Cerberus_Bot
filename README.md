@@ -25,10 +25,6 @@ Chave email:mrf13ac@riseup.net
 
 ## AVISO ⚠️
 
-O Cerberus Bot é um assistente virtual projetado para otimizar a experiência de jogadores de roleta em cassinos online, como Betano e Bet365. Ele funciona como uma extensão para o navegador Google Chrome, oferecendo recursos exclusivos para aprimorar as estratégias de apostas.
-
-O Cerberus Bot não é um produto oficial ou afiliado aos sites Betano e Bet365, nem aos seus respectivos proprietários ou operadores. O Cerberus Bot é um projeto independente e gratuito, criado por um entusiasta de roleta online, sem fins lucrativos ou comerciais.
-
 O Cerberus Bot não garante ou se responsabiliza pelos resultados obtidos pelos usuários que utilizam o bot. O Cerberus Bot é apenas uma ferramenta de apoio e orientação, que não substitui o julgamento e a responsabilidade dos jogadores. Os usuários devem estar cientes dos riscos e das regras envolvidos na atividade de jogos de azar online, e devem jogar de forma consciente e moderada.
 
 O Cerberus Bot respeita as leis e os regulamentos vigentes nos países onde opera, e não incentiva ou facilita a prática de jogos de azar online em locais onde essa atividade é proibida ou restrita. Os usuários devem verificar a legalidade e a segurança dos sites de apostas online antes de utilizá-los, e devem cumprir com as normas e os termos de uso estabelecidos por esses sites.
